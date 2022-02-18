@@ -1,0 +1,14 @@
+{
+  "task_name": "qnli",
+  "stage": "x2",
+  "labels": {
+    "0": {
+      "instruction": "Information: \"<C>\"\nQuestion (answer in above information): \"",
+      "counter_labels": ["1"]
+    },
+    "1": {
+      "instruction": "Information: \"<C>\"\nQuestion (answer not in above information): \"",
+      "counter_labels": ["0"]
+    }
+  }
+}

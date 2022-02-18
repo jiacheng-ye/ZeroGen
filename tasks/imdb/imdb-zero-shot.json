@@ -1,0 +1,12 @@
+{
+  "task_name": "imdb",
+  "stage": "zs",
+  "labels": {
+    "0": {
+      "instruction": "The movie review in positive sentiment is: \"<X>\""
+    },
+    "1": {
+      "instruction": "The movie review in negative sentiment is: \"<X>\""
+    }
+  }
+}

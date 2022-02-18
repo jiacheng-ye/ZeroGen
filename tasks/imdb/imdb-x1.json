@@ -1,0 +1,12 @@
+{
+  "task_name": "imdb",
+  "stage": "x1",
+  "labels": {
+    "0": {
+      "instruction": "Movie: \""
+    },
+    "1": {
+      "instruction": "Movie: \""
+    }
+  }
+}

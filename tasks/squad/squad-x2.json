@@ -1,0 +1,5 @@
+{
+  "task_name": "squad",
+  "stage": "x2",
+  "instruction": "The context is: \"<C>\"\n\"<Y>\" is the answer of the following question: \""
+}

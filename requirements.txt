@@ -1,0 +1,9 @@
+torch==1.7.0
+transformers==4.15.0
+datasets==1.15.1
+wandb==0.12.7
+matplotlib
+sklearn
+spacy
+en_core_web_sm
+nltk

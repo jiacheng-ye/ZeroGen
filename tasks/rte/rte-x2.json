@@ -1,0 +1,14 @@
+{
+  "task_name": "rte",
+  "stage": "x2",
+  "labels": {
+    "0": {
+      "instruction": "\"<C>\"\nBased on the above description, the following sentence is definitely correct: \"",
+      "counter_labels": ["1"]
+    },
+    "1": {
+      "instruction": "\"<C>\"\nBased on the above description, the following sentence is definitely wrong: \"",
+      "counter_labels": ["0"]
+    }
+  }
+}

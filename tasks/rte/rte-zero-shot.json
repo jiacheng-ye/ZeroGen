@@ -1,0 +1,12 @@
+{
+  "task_name": "rte",
+  "stage": "zs",
+  "labels": {
+    "0": {
+      "instruction": "\"<C>\"\nBased on the above description, the following sentence is definitely correct: \"<X>\""
+    },
+    "1": {
+      "instruction": "\"<C>\"\nBased on the above description, the following sentence is definitely wrong: \"<X>\""
+    }
+  }
+}

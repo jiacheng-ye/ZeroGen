@@ -1,0 +1,12 @@
+{
+  "task_name": "qnli",
+  "stage": "zs",
+  "labels": {
+    "0": {
+      "instruction": "Information: \"<C>\"\nQuestion (answer in above information): \"<X>\""
+    },
+    "1": {
+      "instruction": "Information: \"<C>\"\nQuestion (answer not in above information): \"<X>\""
+    }
+  }
+}
