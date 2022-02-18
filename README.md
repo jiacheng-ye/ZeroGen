@@ -1,3 +1,4 @@
+# Z<small>ERO</small>G<small>EN</small>
 This repository contains the code for our paper [“ZeroGen: Efficient Zero-shot Learning via Dataset Generation”](https://arxiv.org/abs/2202.07922).
 ![](img/framework.png)
 Our implementation is built on the source code from [dino](https://github.com/timoschick/dino). Thanks for their work.
